@@ -1,0 +1,5 @@
+﻿exec(open('E:/map_automation_pro/map_automation.py').read())
+exec(open('E:/map_automation_pro2/map_automation.py').read())
+exec(open('E:/map_automation_pro2/map_automation.py', encoding="utf8").read())
+exec(open('E:/map_automation_pro2/map_automation.py', encoding-"utf8").read())
+exec(open('E:/map_automation_pro2/map_automation.py', encoding="utf8").read())
